@@ -12,4 +12,5 @@ Currently supports:
 ## How to install ##
 
 1. Download the ArticleCleaner chrome extension from [here](https://github.com/ankushshah89/ArticleCleaner/raw/master/ArticleCleaner.crx).
-2. Drag the file on your Google Chrome browser.
+2. Open the chrome browser and navigate to chrome://extensions/
+3. Drag the file on the browser window.
