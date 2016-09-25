@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "name": "ArticleCleaner",
+  "version": "0.0.1",
+  "description": "It makes news articles easy to read by hiding distractions like side articles, social bars, related stories, comments, etc. Currently supports Times of India, Hindustan Times and The Hindu.",
+  "icons": {                   
+    "128": "icon.png"  
+  },  
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+
+  "content_scripts": [{
+    "js": ["content.js", "data.js"],
+    "matches": ["http://timesofindia.indiatimes.com/*", "http://www.hindustantimes.com/*", "http://www.thehindu.com/*"],
+    "run_at": "document_start"
+  }],
+  
+  "permissions": [
+    "storage"
+  ],
+
+  "update_url": "https://github.com/ankushshah89/ArticleCleaner/blob/master/updates.xml"
+}
