@@ -3,13 +3,13 @@ A Chrome extension to make news articles easy to read by hiding distractions lik
 
 Currently supports:
 
-1. Times of India, 
+1. Times of India
 2. Hindustan Times
 3. The Hindu
 
-Demo is [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/timesofindia_example.jpg).
+**Demo** is [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/timesofindia_example.jpg).
 
-How to install:
+## How to install ##
 
 1. Download the chrome extension from [here](https://github.com/ankushshah89/ArticleCleaner/raw/master/ArticleCleaner.crx).
 2. Drag the file on your Google Chrome browser.
