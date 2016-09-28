@@ -4,6 +4,7 @@
   "name": "ArticleCleaner",
   "version": "0.0.1",
   "description": "It makes news articles easy to read by hiding distractions like side articles, social bars, related stories, comments, etc. Currently supports Times of India, Hindustan Times and The Hindu.",
+  "author": "Ankush Shah",
   "icons": {                   
     "128": "icon.png"  
   },  
