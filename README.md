@@ -8,7 +8,7 @@ Currently supports:
 3. The Hindu
 4. TechCrunch
 
-**Demo** is [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/timesofindia_example.jpg).
+**Demo** is [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/techcrunch_example.jpg) and [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/timesofindia_example.jpg).
 
 ## How to install ##
 
