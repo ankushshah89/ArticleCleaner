@@ -14,3 +14,7 @@ db["www.hindustantimes.com"] = [ "#story_right_pnl", ".social_icons",
 db["www.thehindu.com"] = [ "#right-column", "#topShare", "#ad-bar",
 		".socialbar", "#articleKeywords ~ *", "#th_footer", "#slidebox",
 		".ad_text_small", "#vuukle_env" ]
+
+// TechCrunch
+db["techcrunch.com"] = [ ".header-social", ".header-ad", ".l-sidebar", ".article-entry ~ *",
+		".social-share", ".article-extra", "div[role='main'] ~ *" ]

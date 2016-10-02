@@ -6,6 +6,7 @@ Currently supports:
 1. Times of India
 2. Hindustan Times
 3. The Hindu
+4. TechCrunch
 
 **Demo** is [here](https://github.com/ankushshah89/ArticleCleaner/blob/master/demo/timesofindia_example.jpg).
 
